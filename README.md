@@ -1,4 +1,4 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 
 ## **Goal:**
 ### *To be able to create a README generator through Inquirer so that I can quickly create a professional README for a new project*
